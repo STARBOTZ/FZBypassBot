@@ -11,7 +11,7 @@ pyrofork
 requests
 tgcrypto
 urllib3==1.26
-uvloop
+uvloop==0.21.0
 psutil
 fake-useragent
 selenium
